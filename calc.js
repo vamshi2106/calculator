@@ -22,7 +22,3 @@ function btndiv()
 { 
 document.calculator.display.value +="/"; document.calculator.display.style.textAlign="right";
 }
-function btnclear()
-{ 
-document.calculator.display.value +=""; document.calculator.display.style.textAlign="right";
-}
